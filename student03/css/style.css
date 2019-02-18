@@ -1,0 +1,13 @@
+.bluestar-image {
+  padding: 10px;
+  width: 200px;
+}
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+  .warriors-image {
+    padding: 20px; 
+    width: 200px;
+  }
