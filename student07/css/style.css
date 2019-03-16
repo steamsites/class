@@ -1,0 +1,36 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size:300%;
+  font-family: Impact, fantasy;
+  /*font-weight: bold;*/
+}
+p {
+  text-align: center;
+  font-size: 150%;
+  font-family: Impact, fantasy;
+}
+.steam-image{ 
+  padding:25px;
+  width:500px;
+}
+
+.steam-image2 { 
+  padding:25px;
+  width:250px;
+}  
+border:10px  solid #000i
+.apple-image{ 
+  width: 500px
+}
+.center-image { 
+  margin-left:auto;
+  margin-right:auto;
+  display:block;  }
+
+  
+}
+h1 {
+  font-family:small arial,sans-serif;
+  font-size:200%;
+}
