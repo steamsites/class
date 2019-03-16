@@ -1,0 +1,11 @@
+.steam-image{
+  padding: 25px;
+  width: 200px;
+}
+
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+

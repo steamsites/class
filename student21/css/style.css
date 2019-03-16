@@ -1,0 +1,42 @@
+p {
+  text-align: left;
+  font: 150%;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+  text-align: left;
+  font-size:150%;
+}
+
+.happiness-image {
+  padding: 0px;
+  width: 500px;
+}
+
+.smiley-image {
+  padding: 0px;
+  width: 404px
+}
+
+.happiest-image {
+  padding: 0px;
+  width: 417px
+}
+
+.happY-image {
+  padding: 0px;
+  width: 300px
+}
+
+.happY-image {
+  margin-left: auto;
+  margin-right: auto
+}
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+

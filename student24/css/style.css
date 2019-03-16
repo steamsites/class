@@ -1,0 +1,63 @@
+
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size:300%;
+  font-family: comic sans ms;
+  /*font-weight: bold;*/
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color:#FDFFCD;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color:#FDFFCD;
+  color:black;
+}
+
+.footer {
+  background-color: #333;
+  text-align: center;
+  padding: 10px;
+
+
+.Friends{
+  padding:10px;
+  width:50px;
+}
+.Family{ 
+padding:50px;
+width:300px;
+}
+.Books{
+ padding:10px;
+ width:50px;
+}
+.Marvel{
+  padding:10px;
+   width:50px;
+}
+.Ice Cream{
+  padding:10px;
+   width:50px;
+}
+.Trevi{
+  padding:25px;
+  width:25px;
+}
+
+
+

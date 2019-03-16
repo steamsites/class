@@ -1,0 +1,61 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size: 400%;
+  font-family: palatino;
+  /*font-weight: bold;*/
+}
+
+.steam-image {
+  padding: 30px;
+  width: 600px;
+}
+
+.steam-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p {
+  text-align: center;
+  font-size: 150%;
+  font-family: palatino;
+}
+
+.font-style1 {
+  color: white;
+}
+
+hr {
+  border: 2px solid;
+  border-color: blue;
+}
+
+.steam-image2 {
+  padding: 30px;
+  width: 700px;
+}
+
+.steam-image2 {
+margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.image3 {
+  padding: 30px;
+  width: 700px;
+}
+
+.image3 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

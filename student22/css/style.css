@@ -1,0 +1,18 @@
+.steam image {
+   padding1: 25ps
+    width:30ps
+}
+
+ p {
+  text-align: center;
+  font-size: 150%;
+  font-family: comic sans ms;
+}
+
+   
+.center-image {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
+

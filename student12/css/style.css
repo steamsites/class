@@ -1,0 +1,72 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size:300%;
+  font-family: comic sans ms;
+  /*font-weight: bold;*/
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.footer {
+  background-color: #333;
+  text-align: center;
+  padding: 10px;
+ 
+}
+
+
+.steam{
+  width:200px;
+  border:10pxsolid#000;
+  display:block;
+  Margin-left:auto;
+  Margin-right:auto;
+  Margin-bottom:20px; 
+}
+
+.music-image {
+  padding: 10px;
+  width: 440px;
+}
+
+.center-image {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+  p {
+    text-align: center;
+    font-size:100%;
+    font-familt: comic sans ms;
+  }
+h1 { 
+   text-align: center;
+    font-size:300%;
+    font-familt: comic sans ms;
+} 
+ 
+
+  
+  
+
+ 

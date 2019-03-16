@@ -1,0 +1,84 @@
+p {
+  text-align: center;
+  font-size: 200%;
+  font-family: comic sans ms;
+}
+.art-image {
+  padding: 1px;
+  width:300px;
+}
+.art-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.resort-image {
+  padding: 1px;
+  width:400px
+}
+.cenote-image {
+  padding: 1px;
+    width:500px;
+}
+.cenote-image {
+  margin-\
+}
+.beach-image {
+  padding: 1px;
+  width:400px;
+}
+.book-image {
+  padding: 1px;
+  width: 300px;
+}
+.book-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.wrap-image {
+  float: right;
+  margin-right: 200px
+}
+p {text-align: auto;
+font-size: 110%;
+font-family: calibri;
+}
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size:300%;
+  font-family: calibri;
+  /*font-weight: bold;*/
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+/*Navbar links*/
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/*Links-change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.footer {
+  background-color: #333;
+    text-align: center;
+  padding: 10px;
+}
+.center-image {
+   margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+

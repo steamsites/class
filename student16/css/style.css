@@ -1,0 +1,173 @@
+html { 
+  background: url("https://i.pinimg.com/originals/24/59/79/2459794d3f4157bd132ae25e71447fb2.jpg") no-repeat center center fixed; 
+  background-size: cover;
+}
+body {
+     display: flex;
+     flex-direction: column;
+     min-height: 100vh;
+     margin: 0;
+     overflow-x: hidden;
+     
+}
+ .content {
+     padding: 0px;
+}
+ h1 {
+     color: #111;
+     text-align: center;
+}
+ .linkMeParent {
+     position: absolute;
+}
+ .linkMe {
+     position:absolute;
+     top: -60px;
+     height: 71px;
+     width: 100px;
+}
+ .bbbLink {
+     color: white;
+     text-decoration: underline;
+     transition: all 100ms;
+}
+ .bbbLink:hover {
+     color: #A9A9A9;
+     text-decoration: none;
+}
+ .lonzopic1 {
+     border-left: 2px solid lightgray;
+     border-bottom: 2px solid lightgray;
+     width: 350px;
+     padding: 20px;
+     margin-top: 59px;
+     box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+ .lonzopic2 {
+     border-right: 2px solid lightgray;
+     border-bottom: 2px solid lightgray;
+     width: 350px;
+     padding: 20px;
+     margin-top: 27px;
+     margin-right: 23px;
+     float: left;
+     box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+ .lonzoVid {
+  display: inline-block;
+  width: 560px;
+  height: 315px;
+  margin-top: 30px;
+  box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+ .vidContainer {
+  text-align: center;
+}
+ .heading {
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+     color: #E1E1E1;
+}
+ .intro {
+     display: block;
+     position: relative;
+     color: #E1E1E1;
+     font-size: 1.38em;
+     overflow-wrap: break-word;
+     word-wrap: break-word;
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+ .intro2 {
+     display: block;
+     position: relative;
+     color: #E1E1E1;
+     font-size: 1.38em;
+     overflow-wrap: break-word;
+     word-wrap: break-word;
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+     margin-top: 39px;
+}
+ .mainContainer {
+     align-items: top;
+     display: flex;
+}
+ .overviewContainer {
+     display:inline-block;
+     float:left;
+     width: 69%;
+     margin: 20px;
+     padding: 2px;
+}
+ .imageContainer {
+     display:inline-block;
+     float:left;
+}
+ .ELcontainer {
+     margin: 20px;
+     padding: 2px;
+}
+ .hr1 {
+     margin: -10px 0px;
+     width: 100%;
+     border: 1.5px solid lightgray;
+}
+ .hr2 {
+     margin: 10px 10px;
+     width: 100%;
+     border: 1.5px solid lightgray;
+}
+ .hr3 {
+     margin: 10px 10px;
+     width: 100%;
+     border: 2px solid #212121;
+}
+/* Navigation Bar */
+ li {
+     float: left;
+     border-right: 1px solid #212121;
+     width: 19.79%;
+}
+ li:last-child {
+     float: left;
+     border-right: none;
+}
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 18px 38px;
+     text-decoration: none;
+     font-size: 20px;
+     transition: all 100ms;
+}
+ li a:hover {
+     background-color: #212121;
+     color: white;
+     transform: scale(1.05);
+}
+ ul {
+     z-index: 2;
+     position: sticky;
+     list-style-type: none;
+     margin: 0px;
+     padding: 0px;
+     overflow: hidden;
+     background-color: #333;
+     top: 0px;
+     width: 100%;
+     box-shadow: 0px 5px 15px rgba(0,0,0,0.75);
+}
+/* Footer */
+ .ftr {
+     position: absolute;
+     margin-top: auto;
+     padding:10px;
+     height: 7em;
+     width: 100%;
+     text-align: center;
+     background-color: #333;
+     color: white;
+}
+ footer p {
+     padding: 30px;
+}
+ 

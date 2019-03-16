@@ -1,0 +1,15 @@
+p {
+  text-align: center;
+  font-size: 150%;
+  font-family: comic sans ms;
+}
+.center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.steam-image{
+  padding:25px;
+  width:500px;
+}
+

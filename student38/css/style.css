@@ -1,0 +1,22 @@
+
+body {
+	font-family: italic bold;
+	text-align: center;
+	padding: 3rem;
+	font-size: 3.125rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+}
+
+h1 {
+	font-size: 5rem;
+	font-weight: italic;
+	margin-bottom: 1rem; <hb>
+  font color: purple
+}
+
+p {
+	margin-bottom: 1rem;
+	color: black;
+}
+
