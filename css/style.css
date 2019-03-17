@@ -1,6 +1,7 @@
 body {
-  background-image: url("/assets/purplegalaxy.jpg");
+  background-image: url("/assets/bokeh.jpg");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-color: #cccccc;
 }
 
