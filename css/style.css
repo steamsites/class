@@ -1,6 +1,6 @@
 body {
-  background-image: url("/assets/bokeh.jpg");
-  background-repeat: no-repeat;
+  background-image: url("/assets/gradient.jpg");
+  background-repeat: repeat-x;
   background-attachment: fixed;
   background-color: #cccccc;
 }
