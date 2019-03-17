@@ -1,8 +1,9 @@
 body {
-  background-image: url("/assets/gradient.jpg");
-  background-repeat: repeat-x;
-  background-attachment: fixed;
-  background-color: #cccccc;
+  background: url(/assets/gradient2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .header {
